@@ -3,8 +3,6 @@ require
   'rails_helper'
   
 describe Post do 
-  
-describe Post do 
   it 'can be created'
   
 do 
