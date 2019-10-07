@@ -9,6 +9,5 @@ Post.create!(title: "My title",
 description: "The post description") 
     expect (post).to 
 be_valid
-  end 
-  
+
 end 
